@@ -43,3 +43,7 @@ h1 {
 .scrollToTop:hover {
     cursor: pointer;
 }
+
+html {
+    scroll-padding-top: 84px;
+}
